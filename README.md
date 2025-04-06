@@ -1,1 +1,1 @@
-# yandex_practice_python
+# Яндекс Практикум Python. 
